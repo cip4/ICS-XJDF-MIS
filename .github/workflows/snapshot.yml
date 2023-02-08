@@ -15,7 +15,7 @@ env:
   DOCUMENT_METADATA_TITLE:      'Management Information System ICS'
   DOCUMENT_METADATA_SUBJECT:    'Management Information System Interoperability Conformance Specification for XJDF'
   DOCUMENT_METADATA_AUTHOR:     'CIP4 Organization'
-  DOCUMENT_METADATA_KEYWORDS:   'Automation;CIM;CIP4;Graphic Arts;Graphics;Interface;Printing;Specification;Standard;Workflow;XML'
+  DOCUMENT_METADATA_KEYWORDS:   'Automation;CIM;CIP4;Graphic Arts;Graphics;Interface;Printing;Specification;Standard;Workflow;XJDF;XJMF;XML'
 
   BUILD_UTILITY_EXE: c:\actions-runner\_work\_tool\document-processing\document-processing.exe  
 
