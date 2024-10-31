@@ -2,10 +2,10 @@
 
 name: Snapshot Build
 ## This section contains ALL variable specific for this project ##
-# The VERSION is the main release number i.e. 1.7 or 2.1
+# The VERSION is the main release number 2.3
 env:
   BUILD_NAME:           ICS-XDF-MIS
-  DOCUMENT_VERSION:     '2.2'
+  DOCUMENT_VERSION:     '2.3'
   DOCUMENT_COVER_TITLE: Management Information System ICS
   CONFIG_FILE:          Build\ICS_XJDF_MIS.ini
   CONFLUENCE_ID:        '1560313992'
